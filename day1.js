@@ -4,7 +4,7 @@ const int = readFileSync('./input/day1', 'utf8').trim().split(`\n`);
 p1 = 0;
 p2 = 0;
   
-for(let i =0; i < int.length -1; i++){
+for(let i = 0; i < int.length -1; i++){
     if(parseInt(int[i+1]) > parseInt(int[i])){
         p1++
     }
