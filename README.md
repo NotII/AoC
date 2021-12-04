@@ -6,3 +6,5 @@ This repo contains the code for all my AOC 2021 submissions
 
 P1: 1529
 P2: 1567
+
+# Day 2 
